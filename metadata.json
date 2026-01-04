@@ -1,0 +1,7 @@
+{
+  "name": "Apex Strategy",
+  "description": "Elite business consultancy portfolio with integrated Gemini AI strategy consultants and a voice-enabled concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
